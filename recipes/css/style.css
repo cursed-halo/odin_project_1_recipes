@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    font-family: monospace;
+    color: antiquewhite;
+    padding: 0% 2% 2% 2%;
+    border: 1px;
+    border-color: red;
+    border-style: double;
+}
+
+.page-header, .section-header{
+    color:chartreuse;
+    text-align: center;
+}
+
+.hr-basic{
+    border-color: green;
+    border-style: dashed;
+    border-radius: 2px;
+}
+
+.def-ol{
+    list-style: lower-roman;
+}
+
+.def-ul{
+    list-style: circle;
+}
+
+.link{
+    color: chartreuse;
+}
